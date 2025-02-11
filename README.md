@@ -12,8 +12,4 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ## 📈 Статистика
-![Статистика](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical)
-
-![Используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=merko)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=dark)
+![Статистика](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=gruvbox)
