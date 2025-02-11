@@ -13,3 +13,5 @@
 
 ## 📈 Статистика
 ![Статистика](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight)
+
+![Просмотры профиля](https://komarev.com/ghpvc/?username=octocat&color=blue)
