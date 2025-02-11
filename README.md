@@ -16,4 +16,4 @@
 
 ![Используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=merko)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=merko)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=dark)
